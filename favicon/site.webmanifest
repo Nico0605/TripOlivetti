@@ -1,0 +1,14 @@
+{
+    "name": "Olivetti 4\u00b0G",
+    "short_name": "Olivetti 4\u00b0G",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}

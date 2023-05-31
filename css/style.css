@@ -1,0 +1,32 @@
+.carousel-item{
+  height: 32rem;
+  background-color: #777;
+}
+
+#firstImage{
+  background-image:url("../image/Factory_Olivetti5.jpeg");
+  background-position: 80%;
+  background-size: 100%;
+}
+
+.navbar{
+  background-color: white !important;
+  opacity: 65%;
+  color: black !important;
+}
+
+#footer{
+  padding: 2rem 0rem 2rem 0rem;
+}
+
+.row{
+  padding: 2rem 0rem 2rem 0rem;
+}
+
+p{
+  padding-top: 3rem;
+}
+
+.logo{
+  padding-right: 2rem;
+}
