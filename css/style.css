@@ -1,10 +1,9 @@
 .carousel-item{
   height: 32rem;
-  background-color: #777;
 }
 
 #firstImage{
-  background-image:url("../image/Factory_Olivetti5.jpeg");
+  background-image:url("../image/Factory_Olivetti.jpeg");
   background-position: 80%;
   background-size: 100%;
 }
