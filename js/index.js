@@ -28,10 +28,14 @@ $(document).ready(function() {
   var starting = $("#starting");
   var arrive = $("#arrive");
   var museumOlivetti = $("#museumOlivetti");
+  var olivetti = $("#olivetti");
+  var reflection = $("#reflection");
 
   //hr trip
   var hrArrive = $("#hrArrive");
   var hrStarting = $("#hrStarting");
+  var hrMuseum = $("#hrMuseum");
+  var hrOlivetti = $("#hrOlivetti");
 
   //typewriter
   firsTw.hide();
@@ -45,9 +49,13 @@ $(document).ready(function() {
   starting.hide();
   arrive.hide();
   museumOlivetti.hide();
+  olivetti.hide();
+  reflection.hide();
 
   hrStarting.hide();
   hrArrive.hide();
+  hrMuseum.hide();
+  hrOlivetti.hide();
 
   //about olivetti
   camillo.show();
@@ -71,9 +79,13 @@ $(document).ready(function() {
       starting.hide();
       arrive.hide();
       museumOlivetti.hide();
+      olivetti.hide();
+      reflection.hide();
 
       hrStarting.hide();
       hrArrive.hide();
+      hrMuseum.hide();
+      hrOlivetti.hide();
 
       //about olivetti
       camillo.fadeIn(1000);
@@ -94,9 +106,13 @@ $(document).ready(function() {
       starting.fadeOut(1000);
       arrive.fadeOut(1000);
       museumOlivetti.fadeOut(1000);
+      olivetti.fadeOut(1000);
+      reflection.fadeOut(1000);
 
       hrStarting.fadeOut(1000);
       hrArrive.fadeOut(1000);
+      hrMuseum.fadeOut(1000);
+      hrOlivetti.fadeOut(1000);
 
       //about olivetti
       camillo.fadeIn(1000);
@@ -128,9 +144,13 @@ $(document).ready(function() {
       starting.hide();
       arrive.hide();
       museumOlivetti.hide();
+      olivetti.hide();
+      reflection.hide();
 
       hrStarting.hide();
       hrArrive.hide();
+      hrMuseum.hide();
+      hrOlivetti.hide();
 
       //about olivetti
       camillo.fadeIn(1000);
@@ -151,9 +171,13 @@ $(document).ready(function() {
       starting.fadeOut(1000);
       arrive.fadeOut(1000);
       museumOlivetti.fadeOut(1000);
+      olivetti.fadeOut(1000);
+      reflection.fadeOut(1000);
 
       hrStarting.fadeOut(1000);
       hrArrive.fadeOut(1000);
+      hrMuseum.fadeOut(1000);
+      hrOlivetti.fadeOut(1000);
 
       //about olivetti
       camillo.fadeIn(1000);
@@ -184,9 +208,13 @@ $(document).ready(function() {
       starting.hide();
       arrive.hide();
       museumOlivetti.hide();
+      olivetti.hide();
+      reflection.hide();
 
       hrStarting.hide();
       hrArrive.hide();
+      hrMuseum.hide();
+      hrOlivetti.hide();
 
       //about olivetti
       camillo.fadeOut(1000);
@@ -207,9 +235,13 @@ $(document).ready(function() {
       starting.fadeOut(1000);
       arrive.fadeOut(1000);
       museumOlivetti.fadeOut(1000);
+      olivetti.fadeOut(1000);
+      reflection.fadeOut(1000);
 
       hrStarting.fadeOut(1000);
       hrArrive.fadeOut(1000);
+      hrMuseum.fadeOut(1000);
+      hrOlivetti.fadeOut(1000);
 
       //about olivetti
       camillo.hide();
@@ -242,9 +274,13 @@ $(document).ready(function() {
       starting.fadeIn(1000);
       arrive.fadeIn(1000);
       museumOlivetti.fadeIn(1000);
+      olivetti.fadeIn(1000);
+      reflection.fadeIn(1000);
 
       hrStarting.fadeIn(1000);
       hrArrive.fadeIn(1000);
+      hrMuseum.fadeIn(1000);
+      hrOlivetti.fadeIn(1000);
 
       //about olivetti
       camillo.fadeOut(1000);
@@ -265,9 +301,13 @@ $(document).ready(function() {
       starting.fadeIn(1000);
       arrive.fadeIn(1000);
       museumOlivetti.fadeIn(1000);
+      olivetti.fadeIn(1000);
+      reflection.fadeIn(1000);
 
       hrStarting.fadeIn(1000);
       hrArrive.fadeIn(1000);
+      hrMuseum.fadeIn(1000);
+      hrOlivetti.fadeIn(1000);
 
       //about olivetti
       camillo.hide();
